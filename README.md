@@ -15,4 +15,4 @@ The "Next" button moves to the next question or shows the final score when the q
 
 This code provides a clean, interactive quiz experience with instant feedback and score tracking.
 ##OUTPUT
-![Image](https://github.com/user-attachments/assets/93c3d36b-371f-453e-9777-177f78f11dff)
+![Image](https://github.com/user-attachments/assets/e63a8055-0b1d-4dc8-ba18-8412c1211a11)
