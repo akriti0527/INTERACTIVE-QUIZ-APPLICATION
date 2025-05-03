@@ -14,3 +14,5 @@ The JavaScript (script.js) powers the logic. It begins by defining an array of q
 The "Next" button moves to the next question or shows the final score when the quiz is over. resetState() clears old answer buttons before loading new ones. Finally, showScore() displays the user’s final result and allows them to restart the quiz.
 
 This code provides a clean, interactive quiz experience with instant feedback and score tracking.
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/93c3d36b-371f-453e-9777-177f78f11dff)
